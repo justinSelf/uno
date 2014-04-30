@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Gcc",
+				"GccDev"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ng-c",
+				"ng-class"
+			],
+			[
+				"current",
+				"currentTask"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/Blinds/Autobahn/packages/RavenDB.Server.2.5.2874/tools/Raven.Server.exe.config",
+		"/C/Projects/Blinds/Autobahn/packages/RavenDB.Server.2.5.2874/tools/local.config",
+		"/C/projects/Ghost/config.js",
+		"/C/Projects/Ghost/core/server.js",
+		"/C/Projects/Ghost/index.js",
+		"/C/RavenDB/Raven.Server.exe.config",
+		"/C/RavenDB/InstallUtil.InstallLog",
+		"/C/Projects/Blinds/Autobahn/app/Ronaele.UI.Web/Web.config",
+		"/C/Projects/Blinds/Autobahn/db/BackupDatabase.ps1",
+		"/C/Projects/Blinds/Autobahn/db/BackupDatabaseToS3.ps1",
+		"/C/Users/Justin Self/Downloads/about_Pscx.help.txt",
+		"/C/Projects/Blinds/Autobahn/docs/DatabaseBackups.md",
+		"/C/Projects/Blinds/Autobahn/db/GccBackupDatabase.sql",
+		"/C/Users/Justin Self/Downloads/wp2ghost_export_1397757407.json",
+		"/C/Projects/Blinds/Autobahn/db/BackupDatabaseToS3-Prod.ps1",
+		"/C/Projects/Blinds/Autobahn/db/Backup Raven Databases.xml",
+		"/C/Users/Justin Self/Desktop/thing.html",
+		"/C/Projects/Blinds/Autobahn/app/Eleanor.UI.Web/Web.config",
+		"/C/Projects/Blinds/Autobahn/app/Autobahn.Tasks/App.config",
+		"/C/Users/Justin Self/AppData/Local/Temp/Temp1_Vapor-master.zip/Vapor-master/default.hbs",
+		"/C/Users/Justin Self/AppData/Local/Temp/Temp1_Vapor-master.zip/Vapor-master/index.hbs",
+		"/C/Users/Justin Self/AppData/Local/Temp/Temp1_Vapor-master.zip/Vapor-master/assets/js/index.js",
+		"/C/Users/Justin Self/AppData/Local/Temp/Temp1_Vapor-master.zip/Vapor-master/page.hbs",
+		"/C/Projects/Blinds/Autobahn/scripts/readme.txt",
+		"/C/Projects/Blinds/Autobahn/tests/Autobahn.Tests.Selenium/customLocalAddress.txt",
+		"/C/Users/Justin Self/Desktop/AngularDemo/app/partials/tasks.html",
+		"/C/Projects/Blinds/Autobahn/app/Eleanor.UI.Web/Content/bower.json",
+		"/C/Users/Justin Self/Desktop/AngularDemo/app/index.html",
+		"/C/Users/Justin Self/Desktop/AngularDemo/app/partials/stats.html",
+		"/C/Users/Justin Self/Desktop/AngularDemo/app/js/controllers.js",
+		"/C/Users/Justin Self/Desktop/AngularDemo/app/js/app.js",
+		"/C/Users/Justin Self/Desktop/AngularDemo/app/js/directives.js",
+		"/C/Projects/Blinds/Autobahn/app/Eleanor.UI.Web/packages.config",
+		"/C/Users/Justin Self/Desktop/AngularDemo/app/todo.html",
+		"/C/Users/Justin Self/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Projects/Trezury/LegenAssets/admin/index.html",
+		"/C/Projects/Trezury/LegenAssets/admin/fullcalendar.html",
+		"/C/Users/Justin Self/Desktop/Legend/admin/BasicInfo.txt",
+		"/C/Users/Justin Self/AppData/Local/Temp/Temp1_msdos.zip/msdos/v11object/CIRCLE.BAS",
+		"/C/Projects/WebApplication2/packages/repositories.config",
+		"/C/Projects/Blinds/Autobahn/app/Eleanor.UI.Web/Templates/blinds.ca/Merchandising/Page/summer-sales-header.tpl.cshtml",
+		"/C/Projects/HeadSpring/HeadSpring.FuzzBuzz/HeadSpring.FuzzBuzz/bin/Debug/fizzbuzz.txt",
+		"/C/Users/Justin Self/AppData/Local/Temp/CloudStorage/tvy4dz4f.muf/fizzbuzz.txt",
+		"/C/Users/Justin Self/Downloads/The Art and Science of Effective Presentations (Brown Bag).ics.txt",
+		"/C/Projects/Blinds/Autobahn/default.ps1",
+		"/C/Users/Justin Self/Desktop/MarthaStewartWorkerRole.xml",
+		"/C/Users/Justin Self/Desktop/MarthaStewartHomeController",
+		"/C/Projects/AsciiIt/AsciiIt.Web/Web.config",
+		"/C/Users/Justin Self/Downloads/colorRun1.jpg_converted.txt",
+		"/C/Users/Justin Self/Downloads/test.jpeg_converted (7).txt",
+		"/C/Users/Justin Self/Downloads/test.jpeg_converted (4).txt",
+		"/C/Users/Justin Self/Downloads/test.jpeg_converted (3).txt",
+		"/C/Users/Justin Self/Downloads/test.jpeg_converted (1).txt",
+		"/C/Users/Justin Self/Downloads/test.jpeg_converted (2).txt",
+		"/C/Users/Justin Self/Downloads/test.jpeg_converted.txt",
+		"/C/Users/Justin Self/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/Justin Self/Desktop/Bug List.txt",
+		"/C/logs/Autobahn/Eleanor.UI.Web/RulesCodeGenerator/Dump.3.cs",
+		"/C/logs/Autobahn/Eleanor.UI.Web/RulesCodeGenerator/Dump.0.cs",
+		"/C/logs/Autobahn/Eleanor.UI.Web/RulesCodeGenerator/Dump.1.cs",
+		"/C/logs/Autobahn/Eleanor.UI.Web/RulesCodeGenerator/Dump.2.cs",
+		"/C/tools/poshgit/dahlbyk-posh-git-02a3d88/profile.example.ps1",
+		"/C/Projects/PoshGitHelpers/poshGitHelpers.ps1",
+		"/C/projects/PoshGitHelpers/poshGitHelpers.ps1",
+		"/C/Projects/Blinds/Autobahn/readme.md",
+		"/C/Projects/Blinds/Autobahn/tools/psake/examples/parameters.ps1",
+		"/C/Projects/TempRepo/dummy.txt",
+		"/C/Projects/Blinds/Autobahn/tools/psake/examples/msbuild40.ps1",
+		"/C/Projects/FluentSelenium/.gitignore",
+		"/C/Users/Justin Self/Desktop/test.html",
+		"/C/Users/Justin Self/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/8RYDFZ65/ASPNET2013.md",
+		"/C/Users/Justin Self/Desktop/Book1.csv",
+		"/C/Users/Justin Self/Desktop/IntelHDGraphics64/Readme.txt",
+		"/C/Users/Justin Self/Desktop/DarkRoom.exe.config",
+		"/C/Users/Justin Self/AppData/Local/Temp/Temp1_dark_room_0.8b.zip/Dark Room 0.8b/DarkRoom.exe.config",
+		"/C/Users/Justin Self/AppData/Local/Temp/fz3temp-1/theme.php",
+		"/C/Users/Justin Self/Desktop/testSite.html",
+		"/C/Projects/EIWIL/Visualstudio.gitignore",
+		"/C/Projects/Blinds/Autobahn/tests/Autobahn.Selenium.Utilities/WebDriverSingleton.cs",
+		"/C/Projects/Blinds/Autobahn/app/Ronaele.UI.Web/Content/Scripts/app/ajax-actions.js",
+		"/C/Projects/Blinds/Autobahn/app/Ronaele.UI.Web/Content/Scripts/app/bus.js",
+		"/C/Users/Justin Self/AppData/Local/Temp/Temp1_pagedown-208b9e3c4ce9.zip/pagedown-208b9e3c4ce9/LICENSE.txt",
+		"/C/Projects/Blinds/Autobahn/app/Ronaele.UI.Web/Content/bower.json",
+		"/C/Projects/bower_components/208b9e3c4ce973e5f11e803a46904ea8a2084cc7/.bower.json",
+		"/C/Projects/Blinds/Autobahn/app/Ronaele.UI.Web/Content/.bowerrc",
+		"/C/RaspberryPi/ez_setup.py",
+		"/C/RaspberryPi/get-pip.py",
+		"/C/RaspberryPi/distribute_setup.py",
+		"/C/Projects/Blinds/Autobahn/app/Autobahn.Contracts/packages.config",
+		"/C/Projects/Blinds/Autobahn/app/Autobahn.Tasks/packages.config",
+		"/C/Projects/Blinds/Autobahn/packages/repositories.config",
+		"/C/Projects/Blinds/Autobahn/app/Ronaele.UI.Web/packages.config",
+		"/C/Projects/Blinds/Autobahn/build.bat",
+		"/C/Users/Justin Self/Desktop/hosts",
+		"/C/Projects/Blinds/Autobahn/ClickToBuildAndRunAllTests.bat",
+		"/C/Projects/Blinds/Autobahn/app/Autobahn.SeedData/App.config",
+		"/C/Projects/Blinds/Autobahn/scripts/build/BuildJs.ps1",
+		"/C/Projects/Blinds/Autobahn/app/Autobahn.SeedData/bin/Debug/log4net.xml",
+		"/C/Projects/Blinds/Autobahn/scripts/build/CopyMigratorExeAndConfig.ps1",
+		"/C/logs/Autobahn/Autobahn.DataMigrations/DataMigration.log",
+		"/C/Windows/System32/drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"8082",
+			"connection",
+			"Zip",
+			"17",
+			"; 	",
+			"};\n",
+			";\n",
+			"<script type=\"text/javascript\">",
+			"todoApp",
+			"\n});",
+			"foo",
+			"attributeGoo",
+			"}));\n",
+			"]))",
+			"\"/>",
+			";\n",
+			"builddevtests",
+			"\\\\\"",
+			"){\n",
+			"configuration",
+			"fancy",
+			"D-",
+			"$D-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"appControllers",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "default.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 463.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
