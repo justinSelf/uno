@@ -1122,6 +1122,11 @@ pre {
     .footer__copyright a:hover {
       color: #b9301c; }
 
+.avatar.large{
+  height:85px;
+  width:85px;
+}
+
 .avatar,
 .logo {
   border-radius: 50%;
