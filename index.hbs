@@ -7,7 +7,11 @@
       <li>
         <h2 class="post-list__post-title post-title"><a href="{{url}}" title="link to {{{title}}}">{{{title}}}</a></h2>
         <p class="excerpt">{{excerpt}}&hellip;</p>
-        <div class="post-list__meta"><img src="{{author.image}}" alt="profile image for {{author.name}}" class="avatar post-meta__avatar" /><time datetime="{{date format="DD MMM YYYY"}}" class="post-list__meta--date date">{{date format="DD MMM YYYY"}}</time> &#8226; <span class="post-list__meta--tags tags">{{tags prefix="on "}}</span></div>
+        <div class="post-list__meta"><img src="{{author.image}}" alt="profile image for {{author.name}}" class="avatar post-meta__avatar" /><span class="post-meta">
+    <time datetime="{{date format='YYYY-MM--DD'}}">{{date format="DD MMM YYYY"}}</time> 
+    {{#if tags}}on {{tags}}{{/if}} 
+    <a href="{{url}}#disqus_thread">Comments</a>
+</span></div>
         <hr class="post-list__divider" />
       </li>
       {{/foreach}}
